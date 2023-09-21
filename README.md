@@ -1,10 +1,10 @@
 # Time-Series-Dataset-using-FaceBook-Prophet
-Use of facebook prophet library
-Data cleaning 
-visualization 
-model bulding using prophet
-forecasting
-plotting forecasted data
-cross validation 
-performance matrics
+Use of facebook prophet library.
+Data cleaning.
+Visualization.
+Model bulding using prophet.
+Forecasting.
+Plotting forecasted data.
+Cross validation.
+Performance matrics.
 
